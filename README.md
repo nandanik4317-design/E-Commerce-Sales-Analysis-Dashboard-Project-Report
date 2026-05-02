@@ -1,6 +1,4 @@
 # E-Commerce-Sales-Analysis-Dashboard-Project-Report
-# E-Commerce Sales Dashboard (Excel)
-
 ## Problem
 Business ko sales aur profit visibility clear nahi thi.
 
